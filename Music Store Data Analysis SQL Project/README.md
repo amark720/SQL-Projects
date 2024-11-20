@@ -9,13 +9,13 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
 1. Create a database.
 2. Create tables using the schema diagram provided below.
-3. Import csv files provided in the <a href="https://github.com/amark720/Music-Store-Analysis/tree/main/dataset">dataset</a> zip folder.
+3. Import csv files provided in the <a href="https://github.com/amark720/SQL-Projects/blob/main/Music%20Store%20Data%20Analysis%20SQL%20Project/Dataset%20Zip%20Folder.rar">dataset</a> zip folder.
 
-Note: If you are using PostgreSQL then restore the <a href="https://github.com/amark720/Music-Store-Analysis/blob/main/music_store_db_backup">backup</a> file of the database and save yourself some time.
+Note: If you are using PostgreSQL then restore the <a href="https://github.com/amark720/SQL-Projects/blob/main/Music%20Store%20Data%20Analysis%20SQL%20Project/music_store_db_backup">backup</a> file of the database and save yourself some time.
 
 ## Schema Diagram
 
-<img src="https://github.com/amark720/Data-Science-Projects/blob/master/NLP%20Projects/Password%20Strength%20Classifier%20Using%20TF-IDF/Screenshot.PNG" width=80% height=40% >
+<img src="https://github.com/amark720/SQL-Projects/blob/main/Music%20Store%20Data%20Analysis%20SQL%20Project/MusicDatabaseSchema.png" width=80% height=80% >
 
 ## Database and Tools
 
@@ -27,7 +27,7 @@ Note: If you are using PostgreSQL then restore the <a href="https://github.com/a
 
 ## Questions Answered
 
-The following are a few of the questions that are answered in the project (check out <a href="https://github.com/amark720/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+The following are a few of the questions that are answered in the project (check out <a href="https://github.com/amark720/SQL-Projects/blob/main/Music%20Store%20Data%20Analysis%20SQL%20Project/Music_Store_Query.sql">analysis.sql</a> file for the rest):
 
 * What are the most popular genres of music?
 * What are the most popular artists?
